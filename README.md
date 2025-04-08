@@ -150,9 +150,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [kalyanidupare143@gmail.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/yourusername/expense-tracker](https://github.com/yourusername/expense-tracker)
+Project Link: [https://github.com/kalyanidupare/expense-tracker](https://github.com/yourusername/expense-tracker)
 
 ---
 ⭐️ If you found this project helpful, please give it a star on GitHub! 
